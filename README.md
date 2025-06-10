@@ -2,6 +2,7 @@
 
 This is a simple **React-based portfolio website** built to showcase personal projects, contact details, and a short bio. It serves as a hands-on project to help learn and practice key React concepts, routing, component structure, and styling using Tailwind CSS.
 
+(./assets/home.jpeg)
 ---
 
 ## 🚀 Features
